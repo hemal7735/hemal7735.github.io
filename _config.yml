@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Hemal Patel
+bio: A Man who knows nothing
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1USmLu9CCBExnEZ6lsNHnvL94_CA1OgWN/view?usp=sharing
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# url: https://koppl.in/indigo
+url: http://hemal7735.github.io
 
 permalink: /:title/
 
