@@ -34,24 +34,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: hemal7735
+twitter: TheHemalPatel
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: hemal7735
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: hemal7735
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+stackoverflow: 4192840/hemal7735
+quora: Hemal-Patel-29
 # reddit: username
-medium: medium
+medium: hemal7735
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: hemal.patel7735@outlook.com
 
 authors:
     johndoe:
